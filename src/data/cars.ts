@@ -9,9 +9,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=500&h=300&fit=crop',
     price: 89990,
     description: 'Electric luxury sedan with autopilot capabilities',
-    ownerName: 'John Smith',
-    phoneNumber: '+1 (555) 123-4567',
-    plateNumber: 'TSL-2023'
+    ownerName: 'John Njoroge',
+    phoneNumber: '+254 7125-45678',
+    plateNumber: 'KBK-A2023'
   },
   {
     id: 2,
@@ -21,9 +21,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&h=300&fit=crop',
     price: 73900,
     description: 'High-performance sports sedan',
-    ownerName: 'Sarah Johnson',
-    phoneNumber: '+1 (555) 234-5678',
-    plateNumber: 'BMW-M3X'
+    ownerName: 'Sarah Musembi',
+    phoneNumber: '+254 7125-456788',
+    plateNumber: 'KBG-MSSM3X'
   },
   {
     id: 3,
@@ -33,9 +33,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&h=300&fit=crop',
     price: 43550,
     description: 'Luxury compact executive car',
-    ownerName: 'Michael Brown',
-    phoneNumber: '+1 (555) 345-6789',
-    plateNumber: 'MBZ-C300'
+    ownerName: 'Michael Kimathi',
+    phoneNumber: '+254 7133-45678',
+    plateNumber: 'kBZ-C300'
   },
   {
     id: 4,
@@ -45,9 +45,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=500&h=300&fit=crop',
     price: 39900,
     description: 'Premium compact executive sedan',
-    ownerName: 'Emily Davis',
-    phoneNumber: '+1 (555) 456-7890',
-    plateNumber: 'AUD-A4S'
+    ownerName: 'Emily Mihiko',
+    phoneNumber: '+254 7125-45228',
+    plateNumber: 'KBJ-A4SS'
   },
   {
     id: 5,
@@ -57,9 +57,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=500&h=300&fit=crop',
     price: 106100,
     description: 'Iconic sports car with timeless design',
-    ownerName: 'David Wilson',
-    phoneNumber: '+1 (555) 567-8901',
-    plateNumber: 'POR-911'
+    ownerName: 'David Chamia',
+    phoneNumber: '+254 7326-45678',
+    plateNumber: 'KBK-D001'
   },
   {
     id: 6,
@@ -69,9 +69,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=500&h=300&fit=crop',
     price: 280000,
     description: 'Mid-engine sports car with V8 power',
-    ownerName: 'Robert Martinez',
-    phoneNumber: '+1 (555) 678-9012',
-    plateNumber: 'FER-F8T'
+    ownerName: 'Robert Ndegwa',
+    phoneNumber: '+254 7695-15678',
+    plateNumber: 'KBT-ATYY6'
   },
   {
     id: 7,
@@ -81,9 +81,9 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1544829099-b9a0c5303bea?w=500&h=300&fit=crop',
     price: 248295,
     description: 'Italian supercar with V10 engine',
-    ownerName: 'Lisa Anderson',
-    phoneNumber: '+1 (555) 789-0123',
-    plateNumber: 'LAM-HUR'
+    ownerName: 'Lisa Amolo',
+    phoneNumber: '+254 7125-45678',
+    plateNumber: 'KBH-A456'
   },
   {
     id: 8,
@@ -93,8 +93,8 @@ export const cars: Car[] = [
     image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=300&fit=crop',
     price: 299000,
     description: 'British supercar with carbon fiber construction',
-    ownerName: 'James Taylor',
-    phoneNumber: '+1 (555) 890-1234',
-    plateNumber: 'MCL-720'
+    ownerName: 'James Wairimu',
+    phoneNumber: '+254 7445-95128',
+    plateNumber: 'KBD-A720'
   }
 ];
